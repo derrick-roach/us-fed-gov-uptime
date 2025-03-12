@@ -1,6 +1,6 @@
 # [📈 Live Status](https://derrick-roach.github.io/us-fed-gov-uptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Derrick Roach](derrick-roach.github.io), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [several U.S. Federal Government websites](https://derrick-roach.github.io/us-fed-gov-uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/derrick-roach/us-fed-gov-uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/derrick-roach/us-fed-gov-uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/derrick-roach/us-fed-gov-uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/derrick-roach/us-fed-gov-uptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -27,7 +27,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://derrick-roach.github.io/us-fed-gov-uptime)
+[**Visit the status website →**](https://derrick-roach.github.io/us-fed-gov-uptime)
 
 ## 📄 License
 
