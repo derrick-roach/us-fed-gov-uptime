@@ -40,19 +40,19 @@
     "url": "https://www.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.nih.gov.ico",
     "slug": "nih-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 1606,
-    "timeWeek": 439,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 338,
+    "timeDay": 948,
+    "timeWeek": 420,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-03-27": 0
+      "2025-03-27": 21
     }
   },
   {
