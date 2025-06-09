@@ -60,18 +60,20 @@
     "url": "https://www.ssa.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.ssa.gov.ico",
     "slug": "ssa-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 428,
+    "timeDay": 320,
     "timeWeek": 214,
-    "timeMonth": 188,
+    "timeMonth": 189,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-09": 0
+    }
   },
   {
     "name": "USA.gov",
