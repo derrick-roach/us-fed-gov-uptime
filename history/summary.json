@@ -108,11 +108,11 @@
     "url": "https://www.usps.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.usps.com.ico",
     "slug": "usps-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 267,
     "timeDay": 304,
@@ -120,7 +120,7 @@
     "timeMonth": 337,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-10-01": 30
+      "2025-10-01": 24
     }
   },
   {
