@@ -146,19 +146,19 @@
     "url": "https://www.whitehouse.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.whitehouse.gov.ico",
     "slug": "whitehouse-gov",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 180,
     "timeDay": 318,
-    "timeWeek": 245,
-    "timeMonth": 190,
+    "timeWeek": 253,
+    "timeMonth": 194,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-12-22": 0
+      "2025-12-22": 12
     }
   }
 ]
