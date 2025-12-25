@@ -4,9 +4,9 @@
     "url": "https://www.cdc.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.cdc.gov.ico",
     "slug": "cdc-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 189,
     "timeMonth": 167,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-25": 0
+    }
   },
   {
     "name": "IRS.gov",
@@ -61,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ssa.gov.ico",
     "slug": "ssa-gov",
     "status": "down",
-    "uptime": "96.44%",
+    "uptime": "96.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.44%",
+    "uptimeYear": "96.45%",
     "time": 174,
     "timeDay": 228,
     "timeWeek": 219,
