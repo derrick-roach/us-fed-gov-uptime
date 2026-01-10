@@ -146,18 +146,19 @@
     "url": "https://www.whitehouse.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.whitehouse.gov.ico",
     "slug": "whitehouse-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 84,
-    "timeWeek": 131,
-    "timeMonth": 173,
+    "timeDay": 114,
+    "timeWeek": 135,
+    "timeMonth": 174,
     "timeYear": 177,
     "dailyMinutesDown": {
+      "2026-01-10": 0,
       "2025-12-29": 16
     }
   }
