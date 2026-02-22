@@ -1,7 +1,7 @@
 url: https://www.nih.gov
-status: up
-code: 200
-responseTime: 254
-lastUpdated: 2026-02-21T23:04:20.005Z
+status: down
+code: 503
+responseTime: 1058
+lastUpdated: 2026-02-22T18:26:44.324Z
 startTime: 2025-03-12T03:56:57.705Z
 generator: Upptime <https://github.com/upptime/upptime>
