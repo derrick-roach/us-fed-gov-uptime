@@ -40,9 +40,9 @@
     "url": "https://www.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.nih.gov.ico",
     "slug": "nih-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.95%",
@@ -52,6 +52,7 @@
     "timeMonth": 286,
     "timeYear": 291,
     "dailyMinutesDown": {
+      "2026-03-15": 0,
       "2026-02-22": 240,
       "2025-03-27": 21
     }
@@ -62,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ssa.gov.ico",
     "slug": "ssa-gov",
     "status": "down",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
