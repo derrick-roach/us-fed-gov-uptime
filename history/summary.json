@@ -4,18 +4,20 @@
     "url": "https://www.cdc.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.cdc.gov.ico",
     "slug": "cdc-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 79,
-    "timeWeek": 89,
-    "timeMonth": 68,
+    "timeDay": 54,
+    "timeWeek": 82,
+    "timeMonth": 67,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-08": 0
+    }
   },
   {
     "name": "IRS.gov",
