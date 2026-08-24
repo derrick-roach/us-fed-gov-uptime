@@ -16,7 +16,7 @@
     "timeMonth": 28,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2026-08-24": 1317,
+      "2026-08-24": 1337,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -89,15 +89,15 @@
     "url": "https://www.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.nih.gov.ico",
     "slug": "nih-gov",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.87%",
     "time": 255,
-    "timeDay": 112,
-    "timeWeek": 140,
+    "timeDay": 124,
+    "timeWeek": 142,
     "timeMonth": 200,
     "timeYear": 259,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
       "2026-08-15": 25,
       "2026-08-19": 25,
       "2026-08-20": 47,
-      "2026-08-24": 41
+      "2026-08-24": 61
     }
   },
   {
