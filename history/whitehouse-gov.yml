@@ -1,7 +1,7 @@
 url: https://www.whitehouse.gov
-status: down
-code: 403
-responseTime: 11
-lastUpdated: 2026-09-28T18:45:22.000Z
+status: up
+code: 200
+responseTime: 29
+lastUpdated: 2026-09-28T23:30:50.026Z
 startTime: 2025-03-12T03:57:00.252Z
 generator: Upptime <https://github.com/upptime/upptime>
